@@ -2,6 +2,8 @@ Examples and rendering tests made with my experimental subtitle editor.
 
 Get the editor from [here](https://github.com/magiruuvelvet/jimaku-editor).
 
+**Hint**: Rendering tests are not updated. Pay close attention to the version,
+which is the git commit hash.
 
 ---
 
