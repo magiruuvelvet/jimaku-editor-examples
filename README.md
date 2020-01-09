@@ -14,3 +14,4 @@ which is the git commit hash.
  - `フルメタル・パニック/第1話.ja.sup` (rendered with version `0f3bb1d8`)
    - example image showing vertical writing in ED to prevent overlapping of credits
 
+ - `新妹魔王の契約者/第6話「募る思いを抱えて」.ja.sup` (rendered with version `0.8.2-beta-1c1f836d`)
